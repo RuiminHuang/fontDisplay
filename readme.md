@@ -296,4 +296,5 @@ except:
 
 最后，放出相关代码的Github：
 [软件工具,字模bin文件校验代码](https://github.com/RuiminHuang/fontDisplay)
+
 [刷屏代码示例](https://github.com/RuiminHuang/e-Paper)

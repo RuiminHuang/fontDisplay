@@ -295,6 +295,7 @@ except:
 > 注意，代码中的中文采用UTF-8编码，保存的时候，为防止乱码，必须以UTF-8编码保存(可采用notepad++工具保存为UTF-8编码)
 
 最后，放出相关代码的Github：
+
 [软件工具,字模bin文件校验代码](https://github.com/RuiminHuang/fontDisplay)
 
 [刷屏代码示例](https://github.com/RuiminHuang/e-Paper)

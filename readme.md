@@ -76,8 +76,9 @@ for (j = 0; j < font->Height; j++) {
 * GBK字库
 * 取模软件
 * 二进制文件生成工具
+
 如下图所示，且相关工具可从文末Github中直接获取得：
-![](http://huangruimin.club//20190520013605.png)
+  ![](http://huangruimin.club//20190520013605.png)
 
 **具体操作步骤如下:**
 
